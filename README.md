@@ -1,6 +1,6 @@
 ### Hi, my names is Lucas Munhoz, I'm a Backend Developer
 - 🔭 I’m currently working on Nodejs with Express
-- 🌱 I’m currently learning Web Hacking
+- 🌱 I’m currently learning Web Hacking and ASP.Net Core 5.0 && 6.0
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
