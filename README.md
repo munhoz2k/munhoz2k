@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-CSharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lucas-CSharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Lucas-CSharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asp-dot-net/asp-dot-net-original.svg">
   <img align="center" alt="Lucas-Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-Ex" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Lucas-Sequelize" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
