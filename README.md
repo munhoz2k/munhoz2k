@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhoz2k&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspdotnet/aspdotnet-original.svg">
+  <img align="center" alt="Lucas-Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
   <img align="center" alt="Lucas-Node" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-Ex" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Lucas-Sequelize" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
