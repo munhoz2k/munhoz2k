@@ -1,6 +1,6 @@
 ### Hi, my names is Lucas Munhoz, I'm a Backend Developer
-- 🔭 I’m currently working on Nodejs with Express, ASP.Net and Python
-- 🌱 I’m currently learning Ruby on Rails
+- 🔭 I’m currently working on Nodejs with Express.
+- 🌱 I’m currently Rockeseat's student.
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
