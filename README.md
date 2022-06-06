@@ -1,6 +1,6 @@
 ### Hi, my names is Lucas Munhoz, I'm a Backend Developer
 - 🔭 I’m currently working on Nodejs with Express.
-- 🌱 I’m currently Rockeseat's student.
+- 🌱 I'm currently studying on the Rocketseat platform.
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
