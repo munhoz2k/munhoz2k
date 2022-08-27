@@ -1,4 +1,4 @@
-### Hi, my names is Lucas Munhoz, I'm a Backend Developer
+### Hi, my names is Lucas Munhoz, I'm a Data Science
 - 🔭 I’m currently working on Nodejs with Express.
 - 🌱 I'm currently studying Data Science.
 
