@@ -1,6 +1,6 @@
-### Hi, my names is Lucas Munhoz, I'm a Data Science
-- 🔭 I’m currently working on Nodejs with Express.
-- 🌱 I'm currently studying Data Science.
+### Hi, my names is Lucas Munhoz, I'm a Web-Debeloper
+- 🔭 I’m currently working on backend with JS/TS
+- 🌱 I'm currently studying Front-End with React
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
