@@ -1,6 +1,6 @@
 ### Hi, my names is Lucas Munhoz, I'm a Web-Debeloper
-- 🔭 I’m currently working on backend with JS/TS
-- 🌱 I'm currently studying Front-End with React
+- 🔭 I’m currently working on back-end & front-end with TypeScript, NodeJS, Fastify and React!
+- 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
