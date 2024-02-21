@@ -26,9 +26,7 @@ path using Express, TypeScript and NodeJS.
 <br />
 <h2>My skill's</h2>
 <p>
-  <a>
     <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,node.js,html5,css3" />
-  </a>
 </p>
 
 <br />
