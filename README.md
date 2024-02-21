@@ -6,7 +6,7 @@
 <h1 align=center"></h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,node,java,python" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,python" />
   </a>
 </p>
 
