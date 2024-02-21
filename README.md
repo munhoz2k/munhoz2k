@@ -26,12 +26,12 @@ path using Express, TypeScript and NodeJS.
 <br />
 <h2>My skill's</h2>
 <p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,node.js,html5,css3" />
+   <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,html5,css3" />
 </p>
 <p>
-   <img src="https://api.iconify.design/skill-icons:flask-light.svg" alt="flask" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:flask-dark.svg" alt="flask" width="40" height="40"/>
-   <img src="https://api.iconify.design/skill-icons:flask-dark.svg" alt="flask" width="40" height="40"/>
+   <img src="https://api.iconify.design/skill-icons:nodejs-light.svg" alt="flask" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:java-light.svg" alt="flask" width="50" height="50"/>/
+   <img src="https://api.iconify.design/skill-icons:python-light.svg" alt="flask" width="40" height="40"/>
 </p>
 
 <br />
