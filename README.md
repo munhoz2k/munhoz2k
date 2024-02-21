@@ -3,7 +3,7 @@
 - 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
 <div display="flex" gap="5 rem">
-  <h1 align=center">My stack's</h1>
+  <h3 align="center">My stack's</h1>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,python" />
