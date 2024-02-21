@@ -29,9 +29,9 @@ path using Express, TypeScript and NodeJS.
    <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,html5,css3" />
 </p>
 <p>
-   <img src="https://api.iconify.design/skill-icons:nodejs-light.svg" alt="flask" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:java-light.svg" alt="flask" width="50" height="50"/>/
-   <img src="https://api.iconify.design/skill-icons:python-light.svg" alt="flask" width="40" height="40"/>
+   <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="nodejs" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:java-dark.svg" alt="java" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:python-dark.svg" alt="python" width="50" height="50"/>
 </p>
 
 <br />
