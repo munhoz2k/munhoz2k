@@ -5,7 +5,6 @@ Full-stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Munhoz-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-munhoz-b946131a5/)](https://www.linkedin.com/in/lucas-munhoz-b946131a5/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucasmunhozarruda@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmunhozarruda@gmail.com)](mailto:lucasmunhozarruda@gmail.com)
 
-### `English`
 Hello, my name is Lucas, or you can call me Munhoz which is my surname.
 
 Passionate about web development, programming, softwares, how software works, how it is made and also passionate about games. In 2020 I decided
