@@ -5,7 +5,7 @@ Full-stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Munhoz-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-munhoz-b946131a5/)](https://www.linkedin.com/in/lucas-munhoz-b946131a5/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucasmunhozarruda@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmunhozarruda@gmail.com)](mailto:lucasmunhozarruda@gmail.com)
 
-### [Português-BR]
+### `Português-BR`
 Olá, meu nome é Lucas, ou pode me chamar de Munhoz que é meu sobrenome
 
 Apaixonado por desenvolvimento web, programação, softwares, como os softwares funcionam e são feitos e também apaixonado por jogos. Em 2020 decidi estudar a linguagem C,
@@ -13,7 +13,7 @@ na época entendia muito bem como um computador e outras tecnologias funcionavam
 que aprendi como os softwares eram feitos, mas foi no final de 2021 que decidi me especializar em desevolvimento web, começando com html, css, javascript e começando com
 a trilha de back-end.
 
-### [English]
+### `English`
 Hello, my name is Lucas, or you can call me Munhoz which is my surname.
 
 
