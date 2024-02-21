@@ -2,9 +2,6 @@
 - 🔭 I’m currently working on back-end & front-end with TypeScript, NodeJS, Fastify and React!
 - 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
-<div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
-</div>
 
 <div align="center">
   <a href="https://github.com/munhoz2k">
@@ -13,6 +10,9 @@
 </div>
   
   ##
+<div style="display: inline_block"><br>
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css)](https://skillicons.dev)
+</div>
  
 <div> 
   <a href = "mailto:lucasmunhozarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
