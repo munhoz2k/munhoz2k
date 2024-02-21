@@ -2,21 +2,23 @@
 - 🔭 I’m currently working on back-end & front-end with TypeScript, NodeJS, Fastify and React!
 - 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
-<h3 align="center">Technologies I use</h1>
-
-<p align="center">
+<br />
+## My skill's
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,python" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,java,python" />
   </a>
 </p>
 
-### Latest activities
+<br />
+## Latest activities
 <div align="center">
   <a href="https://github.com/munhoz2k">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=munhoz2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhoz2k&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<br />
 ##
 <div> 
   <a href = "mailto:lucasmunhozarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
