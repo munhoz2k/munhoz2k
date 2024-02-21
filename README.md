@@ -13,7 +13,7 @@ Minha primeira experiência com código foi na época em que todos tinham um Wix
 <h2>My skill's</h2>
 <p>
   <a>
-    <img src="https://simpleskill.icons.workers.dev/svg?i=react,ts,js,nodejs,html,css,java,python" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=react,typescript,javascript,node.js,html,css,java,python" />
   </a>
 </p>
 
