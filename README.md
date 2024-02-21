@@ -12,8 +12,8 @@ Minha primeira experiência com código foi na época em que todos tinham um Wix
 <br />
 <h2>My skill's</h2>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,java,python" />
+  <a>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=react,ts,js,nodejs,html,css,java,python" />
   </a>
 </p>
 
