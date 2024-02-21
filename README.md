@@ -3,7 +3,7 @@
 - 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
 <br />
-## My skill's
+<h2>My skill's</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,html,css,java,python" />
@@ -11,7 +11,7 @@
 </p>
 
 <br />
-## Latest activities
+<h2>Latest activities</h2>
 <div align="center">
   <a href="https://github.com/munhoz2k">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=munhoz2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
 </div>
 
 <br />
-##
+<h2></h2>
 <div> 
   <a href = "mailto:lucasmunhozarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-munhoz-b946131a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
