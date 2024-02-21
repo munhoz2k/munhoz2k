@@ -2,10 +2,11 @@
 - 🔭 I’m currently working on back-end & front-end with TypeScript, NodeJS, Fastify and React!
 - 🌱 I'm currently studying CSS frameworks, like Sass and Bootstrap
 
-
+<br />
+<h1 align=center"></h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,ts,node,java,python" />
   </a>
 </p>
 
