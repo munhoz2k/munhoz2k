@@ -25,12 +25,19 @@ JavaScript and following the banck-end specialization path using Express, TypeSc
 <br />
 <h2>My skill's</h2>
 <p>
-   <img src="https://simpleskill.icons.workers.dev/svg?i=react,styledcomponents,typescript,javascript,html5,css3" />
+   <img src="https://api.iconify.design/skill-icons:react-light.svg" alt="reactjs" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:nextjs-light.svg" alt="nextjs" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:tailwindcss-light.svg" alt="tailwindcss" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:styledcomponents.svg" alt="styled-components" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:html.svg" alt="html5" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:css.svg" alt="css3" width="50" height="50" />
 </p>
 <p>
-   <img src="https://api.iconify.design/skill-icons:nodejs-dark.svg" alt="nodejs" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:java-dark.svg" alt="java" width="50" height="50"/>
-   <img src="https://api.iconify.design/skill-icons:python-dark.svg" alt="python" width="50" height="50"/>
+   <img src="https://api.iconify.design/skill-icons:typescript.svg" alt="typescript" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:javascript.svg" alt="javascript" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:nodejs-light.svg" alt="nodejs" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:java-light.svg" alt="java" width="50" height="50" />
+   <img src="https://api.iconify.design/skill-icons:python-light.svg" alt="python" width="50" height="50" />
 </p>
 
 <br />
