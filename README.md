@@ -7,10 +7,9 @@ Full-stack Developer
 
 Hello, my name is Lucas, or you can call me Munhoz which is my surname.
 
-Passionate about web development, programming, softwares, how software works, how it is made and also passionate about games. In 2020 I decided
-to study the C language, at the time I already understood how technologies used to work, but I was still wondering myself what I would do for living, it was at that time
-I learned how softwares were made. I decide to specialize in web development at the end of 2021 learning HTML, CSS, JavaScript and following the banck-end specialization
-path using Express, TypeScript and NodeJS.
+Passionate about web development, programming, softwares, how software works, how it is made and also passionate about games. In 2020 I was still wondering myself 
+what I would do for living, it was at that time I learned how softwares were made. I decide to specialize in web development at the end of 2021 learning HTML, CSS,
+JavaScript and following the banck-end specialization path using Express, TypeScript and NodeJS. And today I'm working creating web pages with React and NextJS.
 
 
 ### Extra:
