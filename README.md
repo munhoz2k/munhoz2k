@@ -14,7 +14,7 @@ path using Express, TypeScript and NodeJS.
 
 
 ### Extra:
-1. Actually working on projects with TypeScript, React and Styled Components
+1. Actually working on projects with TypeScript, React and NextJS
 2. Used to study and develop back-end with NodeJS
 3. Projects and technologies:
    - Several NodeJS back-end projects with Express, Fastfy and NestJs
